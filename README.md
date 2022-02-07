@@ -1,5 +1,12 @@
 # Acunetix
+
 ### Download
+```bash
+wget https://cdn-108.anonfiles.com/x4rez2Gex3/69c4bd81-1644210562/acunetix13linux.7z
+```
+https://anonfiles.com/x4rez2Gex3/acunetix13linux_7z
+
+---
 
 ### Insstallation
 ```bash
